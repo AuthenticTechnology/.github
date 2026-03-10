@@ -19,7 +19,9 @@ Most of our repositories are private - this is where the engineering team builds
 
 | Repository | Description |
 |------------|-------------|
-| **[authentic-agentic-coding-techniques](https://github.com/AuthenticTechnology/authentic-agentic-coding-techniques)** | Production-tested Claude Code commands, CLAUDE.md examples, and agentic workflow patterns. Real techniques we use to ship code, every day. |
+| **[authentic-agentic-coding-techniques](https://github.com/AuthenticTechnology/Agentic-Engineering)** | Production-tested Claude Code commands, CLAUDE.md examples, and agentic workflow patterns. Real techniques we use to ship code, every day. |
+
+
 
 ---
 
